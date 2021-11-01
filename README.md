@@ -1,3 +1,3 @@
 # electro
 
-$I_{ion}$ todavía no está
+La corriente iónica todavía no está
