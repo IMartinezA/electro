@@ -1,3 +1,3 @@
 # electro
 
-I_ion todavía no está
+$I_{ion}$ todavía no está
