@@ -17,12 +17,15 @@ Los que terminan con Linux1 necesitan los mismos paquetes que Basic1 y el paquet
 
 # Archivos que usan los archivos con funciones y hay algún tipo de output:
 
-## ElectropermeabilizationTestEnvLinux (requiere ElectropermeabilizationEnvBasic1):
+## ElectropermeabilizationTestEnvLinux
+(requiere ElectropermeabilizationEnvBasic1)  
 (Extremadamente lento, no recuerdo lo que hice con los parámetros así que puede que salgan dibujos extraños)  
 Actualmente lo uso para testear la versión con tiempo lineal.
 
-## LaplaceSpheresTestEnvLinux1 (requiere LaplaceSpheresFunctionsEnvBasic1 y HelmholtzSpheresFunctionsEnvLinux1)
+## LaplaceSpheresTestEnvLinux1
+(requiere LaplaceSpheresFunctionsEnvBasic1 y HelmholtzSpheresFunctionsEnvLinux1)
 - Lo usé para hacer algunos testeos considerando solo el MTF estático.
 
-## PicturesEnvLinux1 (requiere GraficosFigurasEnvLinux1, LaplaceSpheresFunctionsEnvBasic1 y HelmholtzSpheresFunctionsEnvLinux1):
+## PicturesEnvLinux1
+(requiere GraficosFigurasEnvLinux1, LaplaceSpheresFunctionsEnvBasic1 y HelmholtzSpheresFunctionsEnvLinux1)  
 Extremadamente lento, lo usé para ver los campos en el volumen (en un corte en una sección). Me sirvió para encontrar algunos detalles importantes.
